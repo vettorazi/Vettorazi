@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br/>
 Daniel Vettorazi is an inventor, artist, and creative coder originally
 from Rio de Janeiro, Brazil, based in Los Angeles.<br/>
 Currently, he works at Meta Platforms (Facebook), as a Creative
@@ -13,7 +13,8 @@ Responsible Cannes Tribute. <br/>
 His past work includes brands like Google, Facebook, Netflix,
 Coca-Cola, Adidas, Oculus, Instagram, New Yorker Magazine,
 HBO, Nike, Microsoft, Ray-Ban, Olympics, Fifa, among others.
- <br/>
+ <br/><br/><br/>
+ 
 ---
 - 🔭 Projects: <br/>
 On my free time I try to make open-source creative tools (mostly AR/VR) ...
