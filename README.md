@@ -34,5 +34,3 @@ https://github.com/vettorazi/tabjay<br/>
 -🧑🏻‍💻 Currently avaiable for side projects.<br/>
 - 📫 Inquiries<br/>
 daniel.vettorazi@gmail.com<br/>
-<h3 align="left">Support:</h3>
-
